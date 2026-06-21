@@ -15,6 +15,7 @@
         android:background="#F4EAD8">
 
         <TextView
+            android:id="@+id/item1"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -23,6 +24,7 @@
             android:textColor="#000000" />
 
         <TextView
+            android:id="@+id/item2"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -31,6 +33,7 @@
             android:textColor="#000000" />
 
         <TextView
+            android:id="@+id/item3"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -39,6 +42,7 @@
             android:textColor="#000000" />
 
         <TextView
+            android:id="@+id/item4"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -47,6 +51,7 @@
             android:textColor="#000000" />
 
         <TextView
+            android:id="@+id/item5"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -55,6 +60,7 @@
             android:textColor="#000000" />
 
         <TextView
+            android:id="@+id/item6"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:gravity="center"
@@ -72,6 +78,7 @@
         android:background="#FFFFFF">
 
         <TextView
+            android:id="@+id/detailText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Item 1 detail"
